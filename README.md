@@ -1,4 +1,4 @@
 stacksAndQueue
 ==============
-sadf
-asdf
+implements stack and queue
+with examples
